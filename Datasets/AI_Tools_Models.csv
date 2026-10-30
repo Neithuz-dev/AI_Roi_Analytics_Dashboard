@@ -1,0 +1,11 @@
+﻿Tool_ID,Tool_Name,Provider,Model_Name, Cost_Per_1K_Input_Tokens , Cost_Per_1K_Output_Tokens 
+A001,ChatGPT Enterprise,OpenAI,GPT-4.1, $0.0020 , $0.0080 
+A002,GitHub Copilot,GitHub,Copilot Model, $0.0015 , $0.0060 
+A003,Claude Team,Anthropic,Claude Sonnet, $0.0030 , $0.0150 
+A004,Gemini for Workspace,Google,Gemini 2.5 Pro, $0.0013 , $0.0050 
+A005,Microsoft 365 Copilot,Microsoft,Copilot Model, $0.0015 , $0.0060 
+A006,Perplexity Enterprise,Perplexity,Sonar, $0.0010 , $0.0050 
+A007,Cursor,Anysphere,Claude Sonnet, $0.0030 , $0.0150 
+A008,OpenAI API,OpenAI,GPT-4.1 mini, $0.0004 , $0.0016 
+A009,Anthropic API,Anthropic,Claude Sonnet, $0.0030 , $0.0150 
+A010,Google AI API,Google,Gemini Flash, $0.0003 , $0.0012 

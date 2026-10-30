@@ -1,0 +1,11 @@
+﻿Team_ID,Team_Name,Department,Team_Size, Hourly_Labor_Cost_USD 
+T001,Engineering,Technology,18, $42.00 
+T002,Marketing,Marketing,9, $35.00 
+T003,Sales,Commercial,14, $38.00 
+T004,Customer Support,Customer Experience,22, $24.00 
+T005,Finance,Finance,8, $40.00 
+T006,HR,People,6, $30.00 
+T007,Product,Technology,10, $45.00 
+T008,Operations,Operations,16, $28.00 
+T009,Data Analytics,Technology,7, $44.00 
+T010,Legal,Corporate,5, $48.00 
